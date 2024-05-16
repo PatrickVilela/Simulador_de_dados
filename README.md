@@ -30,8 +30,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-
+````python
 
 **Exemplo de Uso**
 
@@ -42,3 +41,5 @@ Resultados dos lançamentos: [3, 5, 2, 6, 4, 1, 3, 2, 6, 1]
 **Conclusão** 
 
 O Simulador de Dados é um projeto divertido e educativo que mostra como podemos usar Python para criar aplicativos simples, mas úteis. É um ótimo projeto para iniciantes praticarem seus conhecimentos em Python e lógica de programação.
+
+
