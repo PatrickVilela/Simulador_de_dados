@@ -9,6 +9,13 @@ O Simulador de Dados é um projeto simples em Python que simula o lançamento de
 3. O programa gera resultados aleatórios para os lançamentos.
 4. Os resultados são exibidos ao usuário.
 
+## Exemplo de Uso**
+
+Digite o número de faces do dado: 6
+Digite o número de lançamentos: 10
+Resultados dos lançamentos: [3, 5, 2, 6, 4, 1, 3, 2, 6, 1]
+
+
 ## Código
 ```python
 import random
@@ -29,17 +36,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-````python
-
-**Exemplo de Uso**
-
-Digite o número de faces do dado: 6
-Digite o número de lançamentos: 10
-Resultados dos lançamentos: [3, 5, 2, 6, 4, 1, 3, 2, 6, 1]
-
-**Conclusão** 
-
-O Simulador de Dados é um projeto divertido e educativo que mostra como podemos usar Python para criar aplicativos simples, mas úteis. É um ótimo projeto para iniciantes praticarem seus conhecimentos em Python e lógica de programação.
-
 
